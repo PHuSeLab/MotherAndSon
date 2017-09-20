@@ -1,0 +1,12 @@
+# exclude these
+libraries/landmarks\ extraction/AA/*
+libraries/landmarks\ extraction/OF/*
+libraries/toolbox/*
+Data/mat/OLD
+Data/mat/*.txt
+Data/mat/*.zip
+.*
+*~
+
+# but not these
+!/.gitignore
