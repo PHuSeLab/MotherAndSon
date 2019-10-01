@@ -25,12 +25,34 @@ Run `mainMotherSon`, choose mother(s) data and the example `son.jpg` image as so
 ### Features to do
 - Include mother acquisition via webcam.
 
-### Credits
-**Mother and Son** is a [PHuSe Lab](http://phuselab.di.unimi.it/) project in collaboration with the Département Informatique - Ecole Polytechnique de l'Université François Rabelais de Tours, France.
-- Giuseppe Boccignone <giuseppe.boccignone@unimi.it>
-- Vittorio Cuculo <vittorio.cuculo@unimi.it>
-- Raffaella Lanzarotti <lanzarotti@di.unimi.it>
-- Donatello Conte <donatello.conte@univ-tours.fr>
+### References
+
+If you use this code or data, please cite the paper:
+
+```
+@article{boccignone2018deep,
+  title={Deep construction of an affective latent space via multimodal enactment},
+  author={Boccignone, Giuseppe and Conte, Donatello and Cuculo, Vittorio and D’Amelio, Alessandro and Grossi, Giuliano and Lanzarotti, Raffaella},
+  journal={IEEE Transactions on Cognitive and Developmental Systems},
+  volume={10},
+  number={4},
+  pages={865--880},
+  year={2018},
+  publisher={IEEE}
+}
+```
+```
+@inproceedings{d2017note,
+  title={A note on modelling a somatic motor space for affective facial expressions},
+  author={D’Amelio, Alessandro and Cuculo, Vittorio and Grossi, Giuliano and Lanzarotti, Raffaella and Lin, Jianyi},
+  booktitle={International Conference on Image Analysis and Processing},
+  pages={181--188},
+  year={2017},
+  organization={Springer, Cham}
+}
+```
+
+
 
 <a name="first">[1]</a>: http://www.ics.uci.edu/~xzhu/face/ "X. Zhu, D. Ramanan. \"Face detection, pose estimation and landmark localization in the wild\" Computer Vision and Pattern Recognition (CVPR) Providence, Rhode Island, June 2012."  
 <a name="second">[2]</a>: http://ibug.doc.ic.ac.uk/resources/drmf-matlab-code-cvpr-2013/ "A. Asthana, S. Zafeiriou, S. Cheng and M. Pantic. Robust Discriminative Response Map Fitting with Constrained Local Models. In CVPR 2013."  
