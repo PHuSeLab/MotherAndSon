@@ -1,4 +1,5 @@
 # Mother and Son
+We provide the modelling of a somatic facial motor space. The variants proposed are conceived to be part of a larger system for dealing with simulation-based face emotion analysis along dual interactions.
 
 ## Dependencies
 After cloning the repository manually download:
